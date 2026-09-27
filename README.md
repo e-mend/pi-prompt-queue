@@ -15,7 +15,7 @@ pi install npm:pi-prompt-queue
 or from git:
 
 ```bash
-pi install git:github.com/<you>/pi-prompt-queue
+pi install git:github.com/e-mend/pi-prompt-queue
 ```
 
 Restart pi (or start a new session) to load it.

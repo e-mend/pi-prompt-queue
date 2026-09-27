@@ -1,10 +1,15 @@
 {
   "name": "pi-prompt-queue",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "FIFO prompt queue shared across pi sessions — one local model, many terminals, serialized",
   "keywords": [
-    "pi-package"
+    "pi-package",
+    "pi",
+    "queue",
+    "local-model",
+    "llama-swap"
   ],
+  "repository": "https://github.com/e-mend/pi-prompt-queue",
   "license": "MIT",
   "pi": {
     "extensions": [
